@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.header-box{
+    height: auto;
+    color: white;
+    width: auto;
+    background-color: #1F2947;
+    font-family: arial;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    gap: 15px;
+}
+
+.hero-box {
+    padding-top: 40px;
+    height: auto;
+    width: auto;
+    font-family: arial;
+    color: white;
+    background-color: #1F2947;
+    gap: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-hero {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-weight: 900;
+    gap: 1px;
+    align-items: flex-start;
+}
+
+.subtext1 {
+    font-size: 18px;
+    font-weight: normal;
+    color: grey;
+}
+
+.button1 {
+    display: flex;
+    background-color: #3882f6;
+    color: white;
+    gap: 5px;
+    width: 70px;
+    padding-left: 9px;
+    flex-direction: column-reverse;
+}
+
+.body-box1 {
+    height: 50px;
+    font-size: 20px;
+    font-weight: 900;
+    width: auto;
+    font-family: arial;
+    display: flex;
+    justify-content: space-around;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1px;
+}
+
+.subtext4image {
+    display: flex;
+    justify-content: space-around;
+    font-family: arial;
+    padding-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.quote-box {
+    background-color: #E5E7EB;
+    color: black;
+    height: 200px;
+    padding: 50px;
+    font-style: italic;
+    font-family: arial;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.quotename {
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+    align-items: center;
+    margin-left: 70px;
+}
+ 
+
+.footer-box {
+    display: flex;
+    border: 2px solid;
+    font-family: arial;
+    flex-direction: column;
+    align-items: center;
+    background-color: #3882f6;
+    margin: 40px;
+    height: 100px;
+    padding: 25px;
+    
+}
+
+
+.call2action {
+    padding-right: 380px;
+}
+input {
+   margin-left: 50px;
+   width: 70px;
+   border: 1px solid white;
+   color: white;
+   background-color: #3882f6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
